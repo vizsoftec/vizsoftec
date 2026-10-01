@@ -36,8 +36,8 @@ Estos son algunos de los desarrollos y sistemas en los que trabajamos:
 ¿Tienes un proyecto en mente o buscas llevar tu negocio al siguiente nivel tecnológico? Hablemos:
 
 *   🌐 **Sitio Web:** [www.vizsoft.ec](https://www.vizsoft.ec/)
-*   💼 **LinkedIn:** [Enlace al LinkedIn de VizSoft]
-*   ✉️ **Email:** [Correo corporativo, ej. contacto@vizsoft.ec]
+*   💼 **LinkedIn:** 
+*   ✉️ **Email:** [vizsoftec@gmail.com]
 
 ---
 
