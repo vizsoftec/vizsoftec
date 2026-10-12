@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>🚀 Bienvenidos al Hub Tecnológico de VizSoft</h1>
+  <h1>Bienvenidos al Hub Tecnológico de VizSoft</h1>
   <p><b>Transformando ideas en soluciones digitales escalables y de alto impacto</b></p>
-  <p>📍 Operando desde Riobamba, Ecuador</p>
+  <p>Operando desde Riobamba, Ecuador</p>
 </div>
 
 ---
