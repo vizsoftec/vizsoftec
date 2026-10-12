@@ -6,7 +6,7 @@
 
 ---
 
-### 🏢 Sobre Nosotros
+### Sobre Nosotros
 
 En **VizSoft** somos una empresa tecnológica especializada en el **desarrollo de software a medida, consultoría TI estratégica y análisis avanzado de datos (Business Intelligence)**. 
 
@@ -14,10 +14,10 @@ Nuestro enfoque se basa en comprender las necesidades únicas de cada negocio pa
 
 ---
 
-### 🛠️ Nuestro Stack Tecnológico
+### Nuestro Stack Tecnológico
 
 <div align="center">
-  <h4>Frontend, Backend & Móvil</h4>
+  <h4>Frontend, Backend y Móvil</h4>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -27,7 +27,7 @@ Nuestro enfoque se basa en comprender las necesidades únicas de cada negocio pa
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
 
-  <h4>DevOps, Bases de Datos & Análisis</h4>
+  <h4>DevOps, Bases de Datos y Análisis</h4>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
@@ -38,36 +38,21 @@ Nuestro enfoque se basa en comprender las necesidades únicas de cada negocio pa
 
 ---
 
-### 📂 Proyectos y Soluciones Destacadas
+### Proyectos y Soluciones Implementadas
 
-A lo largo de nuestra trayectoria, hemos desarrollado e implementado diversas plataformas enfocadas en resolver problemas específicos. A continuación, destacamos algunos de nuestros sistemas clave:
+A lo largo de nuestra trayectoria, abordamos el desarrollo de soluciones tecnológicas desde una perspectiva integral y estratégica, orientada a resolver las complejidades específicas de cada organización.
 
-*   🎫 **Plataforma de Gestión de Rifas y Boletos (`boletos` / `proyecto7colinas`)**
-    Desarrollo de un sistema web integral diseñado para la venta, administración y validación segura de boletos digitales. Esta solución permite un control absoluto del inventario, seguimiento de ventas en tiempo real y una experiencia de usuario fluida para los compradores. *(Desarrollado para Proyecto 7 Colinas / La Tolita Express Touring).*
+* **Desarrollo de Plataformas Transaccionales y de Gestión:** Diseñamos e implementamos sistemas web y móviles enfocados en la administración, venta y validación segura de productos e inventarios en tiempo real. Estas soluciones garantizan una alta disponibilidad, control preciso del flujo operativo y una experiencia intuitiva para los usuarios finales.
 
-*   🌐 **Sitio Web Corporativo y Presencia Digital (`corporate-site`)**
-    El núcleo de nuestra identidad digital. Este proyecto engloba el desarrollo, diseño UI/UX y despliegue continuo de nuestro portal oficial, optimizado para ofrecer un alto rendimiento, excelente posicionamiento (SEO) y una presentación clara de nuestro catálogo de servicios.
+* **Identidad Digital y Desarrollo Web Corporativo:** Acompañamos a las organizaciones en el fortalecimiento de su presencia digital mediante la arquitectura, diseño UI/UX y despliegue de portales web optimizados para ofrecer un alto rendimiento, seguridad y excelente posicionamiento orgánico.
 
-*   📊 **Sistemas de Business Intelligence y Procesos ETL (Odoo ERP)**
-    Creación de pipelines de datos y procesos ETL (Extracción, Transformación y Carga) para extraer información compleja desde sistemas Odoo ERP. El proyecto se centra en la estructuración de almacenes de datos y la creación de dashboards interactivos que facilitan la toma de decisiones estratégicas a nivel gerencial.
-
----
-
-### 📈 Estadísticas de la Organización
-
-*(Nota: Para que los lenguajes de programación se reflejen correctamente en la barra inferior, los repositorios deben estar configurados como "Públicos" en sus respectivos Settings).*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vizsoftec&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estadísticas de vizsoftec" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vizsoftec&layout=compact&theme=tokyonight&count_private=true" alt="Lenguajes más usados" />
-</div>
+* **Arquitectura de Datos y Business Intelligence (BI):** Nos especializamos en la integración de datos empresariales mediante la creación de procesos ETL (Extracción, Transformación y Carga) conectados a sistemas ERP de gran escala. Construimos almacenes de datos consolidados y tableros de control interactivos que facilitan la toma de decisiones informadas a nivel gerencial.
 
 ---
 
 <div align="center">
-  <h3>📫 Hablemos sobre tu próximo proyecto</h3>
-  <p>¿Buscas llevar tu empresa al siguiente nivel tecnológico? Contáctanos:</p>
+  <h3>Contacto</h3>
+  <p>Si requiere asesoría técnica o desea iniciar un nuevo proyecto, puede ponerse en contacto a través de nuestros canales oficiales:</p>
   
   <a href="https://www.vizsoft.ec/"><img src="https://img.shields.io/badge/Website-vizsoft.ec-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-VizSoft-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
